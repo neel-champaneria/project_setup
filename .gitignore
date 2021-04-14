@@ -1,0 +1,15 @@
+backend/node_modules
+
+backend/.prettierrc
+
+frontend/.vscode
+
+frontend/node_modules
+
+frontend/.eslintignore
+
+frontend/.eslintrc.json
+
+frontend/.prettierignore
+
+frontend/.prettierrc
